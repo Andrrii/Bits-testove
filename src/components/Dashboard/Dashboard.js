@@ -20,7 +20,7 @@ const Dashboard = ({booksList,onDelete}) => {
                           history.push(`/edit/${id}`,{  id,bookDetails:[newBook],addNew:true })
                     }}>
                         Add New Book</button>
-        <table className="w3-table-all w3-hoverable">
+        <table className="w3-table-all w3-card-4 w3-large w3-hoverable w3-margin-bottom">
           <thead>
             <tr className="w3-blue">
               <th>Book title</th>

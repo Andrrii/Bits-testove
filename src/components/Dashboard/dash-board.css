@@ -1,5 +1,8 @@
 .w3-btn {margin:10px;}
 
 .w3-table-all{
-    margin: 20px 15px!important;
+    position:absolute;
+    margin: 25px;
+    text-align: center;
+    width: 94%;
 }
