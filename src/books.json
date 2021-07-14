@@ -1,0 +1,93 @@
+{
+    "books":[
+    {
+      "id" :1,
+      "author": "Chinua Achebe",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
+      "title": "Things Fall Apart",
+      "ISBN":488181181115
+    },
+    {
+      "id" :2,
+      "author": "Hans Christian Andersen",
+      "language": "Danish",
+      "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
+      "title": "Fairy tales",
+      "ISBN":488181181752
+    },
+    {
+        "id" :3,
+      "author": "Dante Alighieri",
+      "language": "Italian",
+      "link": "https://en.wikipedia.org/wiki/Divine_Comedy\n",
+      "title": "The Divine Comedy",
+      "ISBN":472541181115
+    },
+    {
+        "id" :4,
+    "author": "Jorge Luis Borges",
+    "language": "Spanish",
+    "link": "https://en.wikipedia.org/wiki/Ficciones\n",
+    "title": "Ficciones",
+    "ISBN":488182521115
+      
+    },
+    {
+        "id" :5,
+        "author": "Miguel de Cervantes",
+        "language": "Spanish",
+        "link": "https://en.wikipedia.org/wiki/Don_Quixote\n",
+        "title": "Don Quijote De La Mancha",
+        "ISBN":4826481115
+    },
+    {
+        "id" :6,
+        "author": "Albert Camus",
+        "language": "French",
+        "link": "https://en.wikipedia.org/wiki/The_Stranger_(novel)\n",
+        "title": "The Stranger",
+        "ISBN":48595111515
+    },
+    {
+        "id" :7,
+        "author": "Emily Bront\u00eb",
+        "language": "English",
+        "link": "https://en.wikipedia.org/wiki/Wuthering_Heights\n",
+        "title": "Wuthering Heights",
+        "ISBN":526581181115
+    },
+    {
+        "id" :8,
+      "author": "Jane Austen",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice\n",
+      "title": "Pride and Prejudice",
+      "ISBN":842461181115
+    },
+    {
+        "id" :9,
+      "author": "Honor\u00e9 de Balzac",
+      "language": "French",
+      "link": "https://en.wikipedia.org/wiki/Le_P%C3%A8re_Goriot\n",
+      "title": "Le P\u00e8re Goriot",
+      "ISBN":458571181115
+    },
+    {
+        "id" :10,
+      "author": "Samuel Beckett",
+      "language": "French, English",
+      "link": "https://en.wikipedia.org/wiki/Molloy_(novel)\n",
+      "title": "Molloy, Malone Dies",
+      "ISBN":8852181181115
+    },
+    {
+        "id" :11,
+      "author": "Giovanni Boccaccio",
+      "language": "Italian",
+      "link": "https://en.wikipedia.org/wiki/The_Decameron\n",
+      "title": "The Decameron",
+      "ISBN":984184891115
+    }
+]
+}
